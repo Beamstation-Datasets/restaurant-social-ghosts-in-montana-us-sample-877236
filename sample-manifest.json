@@ -1,0 +1,12 @@
+{
+  "export_job_id": "67470d50-9b70-4d30-9924-b0dc0fa75005",
+  "id_short": 877236,
+  "published_at": "2026-04-17T07:09:08Z",
+  "repo_name": "restaurant-social-ghosts-in-montana-us-sample-877236",
+  "sample_asset_name": "beamstation_877236_restaurants-us-mt_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/877236/beamstation_877236_restaurants-us-mt_SAMPLE_DIST.csv",
+  "sample_records": 2,
+  "sample_sha256": "8bc49999a7eb7f462d3ebd3eeff9d45841849cffcde21aff24992b0aebd384a2",
+  "sample_size_bytes": 22032,
+  "total_records": 26
+}
