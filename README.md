@@ -9,9 +9,9 @@
 | Dataset ID | `877236` |
 | Location | Montana |
 | Category | Restaurants |
-| Full dataset size | 26 records |
-| Free sample size | 2 records (7.69%) |
-| Last export | 2026-04-08T08:03:11.739235+00:00 |
+| Full dataset size | 25 records |
+| Free sample size | 2 records (8.0%) |
+| Last export | 2026-04-15T11:13:22.959495+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-montana-us-sample-877236/releases/download/sample-latest/beamstation_877236_restaurants-us-mt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
