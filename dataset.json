@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
   "config_name": "Restaurant Social Ghosts in Montana, US",
-  "export_job_id": "67470d50-9b70-4d30-9924-b0dc0fa75005",
+  "export_job_id": "850e771d-cec3-4071-8c15-bc022739b731",
   "github_org": "Beamstation-Datasets",
   "id_short": 877236,
   "location_name": "Montana",
   "location_type": "state",
   "repo_name": "restaurant-social-ghosts-in-montana-us-sample-877236",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/877236/beamstation_877236_restaurants-us-mt_SAMPLE_DIST.csv",
-  "sample_pct": 7.69,
+  "sample_pct": 8.0,
   "sample_records": 2,
   "sample_sha256": "8bc49999a7eb7f462d3ebd3eeff9d45841849cffcde21aff24992b0aebd384a2",
   "sample_size_bytes": 22032,
-  "total_records": 26,
-  "updated_at": "2026-04-08T08:03:11.739235+00:00"
+  "total_records": 25,
+  "updated_at": "2026-04-15T11:13:22.959495+00:00"
 }
