@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Montana, US
 
-> Free BeamStation sample export with 2 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `877236` |
 | Location | Montana |
 | Category | Restaurants |
-| Full dataset size | 25 records |
-| Free sample size | 2 records (8.0%) |
-| Last export | 2026-04-15T11:13:22.959495+00:00 |
+| Full dataset size | 3 records |
+| Free sample size | 1 records (33.33%) |
+| Last export | 2026-04-22T19:17:48.060626+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-montana-us-sample-877236/releases/download/sample-latest/beamstation_877236_restaurants-us-mt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
